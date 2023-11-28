@@ -1,6 +1,6 @@
 # ALAL (Alicorn Again Launcher)
 
-## Status
+## Status?
 
 [![Autotest](https://github.com/skjsjhb/ALAL/actions/workflows/test.yml/badge.svg)](https://github.com/skjsjhb/ALAL/actions/workflows/test.yml)
 [![Bundle Check](https://github.com/skjsjhb/ALAL/actions/workflows/bundle.yml/badge.svg)](https://github.com/skjsjhb/ALAL/actions/workflows/bundle.yml)
